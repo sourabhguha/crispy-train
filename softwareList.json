@@ -1,0 +1,49 @@
+{
+    "Value": [
+        {
+            "type": "providers/Microsoft.GuestConfiguration/software",
+            "id": "subscriptions/b5e4748c-f69a-467c-8749-e2f9c8cd3db0/resourceGroups/sguhaRG/providers/Microsoft.Compute/virtualMachines/sguha-eapvm/providers/Microsoft.GuestConfiguration/software/999d9236-5655-47e2-9ffe-1b9a8051d5fa",
+            "name": "999d9236-5655-47e2-9ffe-1b9a8051d5fa",
+            "properties": {
+                "name": "Microsoft Monitoring Agent",
+                "version": "8.0.11081.0",
+                "publisher": "Microsoft Corporation",
+                "lastRefreshDate": "12/21/2018 12:08:21"
+            }
+        },
+        {
+            "type": "providers/Microsoft.GuestConfiguration/software",
+            "id": "subscriptions/b5e4748c-f69a-467c-8749-e2f9c8cd3db0/resourceGroups/sguhaRG/providers/Microsoft.Compute/virtualMachines/sguha-eapvm/providers/Microsoft.GuestConfiguration/software/357d5607-879b-4e14-b197-965c549c5ef7",
+            "name": "357d5607-879b-4e14-b197-965c549c5ef7",
+            "properties": {
+                "name": "Progress Telerik Fiddler",
+                "version": "5.0.20182.28034",
+                "publisher": "Telerik",
+                "lastRefreshDate": "12/21/2018 12:08:21"
+            }
+        },
+        {
+            "type": "providers/Microsoft.GuestConfiguration/software",
+            "id": "subscriptions/b5e4748c-f69a-467c-8749-e2f9c8cd3db0/resourceGroups/sguhaRG/providers/Microsoft.Compute/virtualMachines/sguha-eapvm/providers/Microsoft.GuestConfiguration/software/b30bf71b-072f-45b4-820a-e56268cbb8b6",
+            "name": "b30bf71b-072f-45b4-820a-e56268cbb8b6",
+            "properties": {
+                "name": "ClumsyLeaf CloudXplorer",
+                "version": "1.0.4244",
+                "publisher": "ClumsyLeaf Software",
+                "lastRefreshDate": "12/20/2018 21:07:00"
+            }
+        },
+        {
+            "type": "providers/Microsoft.GuestConfiguration/software",
+            "id": "subscriptions/b5e4748c-f69a-467c-8749-e2f9c8cd3db0/resourceGroups/sguhaRG/providers/Microsoft.Compute/virtualMachines/sguha-eapvm/providers/Microsoft.GuestConfiguration/software/5d427f7f-985f-4606-8980-8cc04b91cb4e",
+            "name": "5d427f7f-985f-4606-8980-8cc04b91cb4e",
+            "properties": {
+                "name": "ClumsyLeaf CloudXplorer",
+                "version": "4.9.1.0",
+                "publisher": "ClumsyLeaf Software",
+                "lastRefreshDate": "12/21/2018 12:08:21"
+            }
+        }
+    ],
+    "NextLink": null
+}
